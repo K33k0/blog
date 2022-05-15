@@ -1,5 +1,4 @@
 +++ 
-draft = true
 date = 2022-05-15T20:54:21+01:00
 title = "Connect Selenium to an existing webrowser with Python"
 description = "A short snippet with a brief explanation of how to use Selenium with Python to connect to an existing web browser"
