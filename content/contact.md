@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @EclecticProtean.
+The best place to get in touch with me is via Twitter: @EclecticProtean
